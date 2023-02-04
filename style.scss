@@ -1,5 +1,6 @@
 * {
    box-sizing: border-box;
+   margin: 0;
 }
 body{
    display: flex;
@@ -66,6 +67,12 @@ body{
       }
    }
 }
+ main{
+   .position{
+      font-size: 20px;
+      color: #7783ad;
+   }
+ }
 
 .footer{
    background-color: rgb(166, 172, 205);

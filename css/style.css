@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 
 body {
@@ -63,6 +64,11 @@ body {
 }
 .nav__link :hover {
   color: #0c2f87;
+}
+
+main .position {
+  font-size: 20px;
+  color: #7783ad;
 }
 
 .footer {
