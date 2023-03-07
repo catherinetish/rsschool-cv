@@ -7,9 +7,9 @@
 **Telegram:** @catherinetish
 **Discord(RS):** Ekaterina (@catherinetish)
 
-[Github][https://github.com/catherinetish]
-[LinkedIn][https://www.linkedin.com/in/ekaterina-tish-976575223/]
-[Behance][https://www.behance.net/catherinetish]
+[Github](https://github.com/catherinetish)
+[LinkedIn](https://www.linkedin.com/in/ekaterina-tish-976575223/)
+[Behance](https://www.behance.net/catherinetish)
 *********
 ### About me:
 I am Ekaterina, junior frontend developer, filled with creative ideas and ready to bring them to life. I am curious about details and always open to new knowledge. I worked as a freelance UI/UX designer for few years, and was an intern in Nobel Explorers company. I have experience working in an international team, where I have repeatedly proved my sociability and willingness to help with projects.
