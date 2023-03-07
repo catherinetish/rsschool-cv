@@ -16,15 +16,15 @@ I am Ekaterina, junior frontend developer, filled with creative ideas and ready 
 *********
 ### Skills and Proficiency:
 * Programming:
-+ HTML5
-+ CSS (SCSS, BEM)
-+ Git, GitHub
-+ JavaScript (Fundamentals)
-+ VS Code, Visual Studio
-+ Basics of Java, C#
+   + HTML5
+   + CSS (SCSS, BEM)
+   + Git, GitHub
+   + JavaScript (Fundamentals)
+   + VS Code, Visual Studio
+   + Basics of Java, C#
 * Design:
-+ Figma, Photoshop, Illustrator, Tilda
-+ UI/UX Basics (color theory, JTBD, Personas, User Flow, UML etc.)
+   + Figma, Photoshop, Illustrator, Tilda
+   + UI/UX Basics (color theory, JTBD, Personas, User Flow, UML etc.)
 *********
 ### Code Examples:
 **Find the smallest integer in the array**:
