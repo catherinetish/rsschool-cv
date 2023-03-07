@@ -55,7 +55,7 @@ return min;
 
 As an intern at Nobel Explorers, took several courses and learned a lot in areas such as graphic design, leadership, networking and programming. Helped in testing and developing a number of programming related courses. Worked as a facilitator of Coding and Web Design course for international students
 ##### Progects:
-HTML and CSS: [Ourdoor web-site][https://github.com/catherinetish/outdoor-website-studyCase]
+HTML and CSS: [Ourdoor web-site](https://github.com/catherinetish/outdoor-website-studyCase)
 *********
 ### Education:
 *2015 – 2020*
